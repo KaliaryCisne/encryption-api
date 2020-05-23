@@ -12,20 +12,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class KeyController extends Controller
 {
-
-    /** @var string*/
-    public string $e;
-    /** @var float*/
-    public float $d;
-    /** @var string*/
-    public string $p;
-    /** @var string*/
-    public string $q;
-    /** @var string*/
-    public string $n;
-    /** @var string*/
-    public string $z;
-
     /**
      * Gera uma chave publica e uma chave privada
      * @return \Illuminate\Http\JsonResponse
