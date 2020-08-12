@@ -1,6 +1,6 @@
-# Api de criptografia de mensagens
+# API to encrypt and decrypt messages
 
-Api para criptografar e descriptografar mensagens utilizando chave publica e pirvada e o algortimo de RSA.
+API to encrypt and decrypt messages using public and private keys using the RSA algorithm.
 
 ## Installation
 
@@ -10,3 +10,16 @@ Api para criptografar e descriptografar mensagens utilizando chave publica e pir
 
 ``php artisan serve``
 
+## Usage - examples
+
+Generating keys
+
+![Screenshot](public/images/new-keys.png)
+
+Encrypting a message
+
+![Screenshot](public/images/encrypt.png)
+
+Decrypting a message
+
+![Screenshot](public/images/decrypt.png)
