@@ -6,3 +6,7 @@ Api para criptografar e descriptografar mensagens utilizando chave publica e pir
 
 ``composer install``
 
+## Run server
+
+``php artisan serve``
+
